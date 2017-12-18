@@ -1,2 +1,4 @@
 # FHC-App
-FHC app of copany
+FHC app of company
+
+Working for them
